@@ -1,4 +1,4 @@
-# Codveda-Technologies-level-1
+# Codveda-Technologies
 
 I have successfully completed Level 1 all 3 tasks of my Data Analysis journey, where I worked on the Iris Dataset 🌸 and explored key concepts:
 
